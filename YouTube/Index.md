@@ -2,6 +2,7 @@
 
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 2022-06-23 | Not Your Keys? NOT YOUR COIN! | [Play](https://www.youtube.com/watch?v=vFxTh0ieCgg) | ![View Count](https://img.shields.io/youtube/views/vFxTh0ieCgg?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/vFxTh0ieCgg?style=social "Likes") | ![Likes](https://img.shields.io/youtube/comments/vFxTh0ieCgg?style=social "Comments") |
 | 6 | 2022-06-16 | Bet Nullification in Roulette | [Play](https://www.youtube.com/watch?v=q6QurhEumCY) | ![View Count](https://img.shields.io/youtube/views/q6QurhEumCY?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/q6QurhEumCY?style=social "Likes") | ![Likes](https://img.shields.io/youtube/comments/q6QurhEumCY?style=social "Comments") |
 | 5 | 2022-06-09 | Introducing... the Roulette Bet Analyzer | [Play](https://www.youtube.com/watch?v=OI3F0JfM_To) | ![View Count](https://img.shields.io/youtube/views/OI3F0JfM_To?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/OI3F0JfM_To?style=social "Likes") | ![Likes](https://img.shields.io/youtube/comments/OI3F0JfM_To?style=social "Comments") |
 | 4 | 2022-06-02 | Wordle Solved! | [Play](https://www.youtube.com/watch?v=q2ekQ8GHZqE) | ![View Count](https://img.shields.io/youtube/views/q2ekQ8GHZqE?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/q2ekQ8GHZqE?style=social "Likes") | ![Likes](https://img.shields.io/youtube/comments/q2ekQ8GHZqE?style=social "Comments") |
