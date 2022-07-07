@@ -1,5 +1,9 @@
 # YouTube Videos
 
+![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCINg22R9y7_qrYXH1zWwIVQ?style=social "Subscribers")
+
+![Channel Views](https://img.shields.io/youtube/channel/views/UCINg22R9y7_qrYXH1zWwIVQ?style=social "Channel Views")
+
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
 | 9 | 2022-07-05 | Celsius 232.8 | [Play](https://www.youtube.com/watch?v=6tc_E3BdgEo) | ![View Count](https://img.shields.io/youtube/views/6tc_E3BdgEo?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/6tc_E3BdgEo?style=social "Likes") | ![Likes](https://img.shields.io/youtube/comments/6tc_E3BdgEo?style=social "Comments") |
