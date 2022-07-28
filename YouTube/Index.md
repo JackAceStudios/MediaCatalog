@@ -6,6 +6,7 @@
 
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
+| 12 | 2022-07-27 | Learn Blackjack... IN YOUR SLEEP! | [Play](https://www.youtube.com/watch?v=a_T5-hyNmuA) | ![View Count](https://img.shields.io/youtube/views/a_T5-hyNmuA?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/a_T5-hyNmuA?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/a_T5-hyNmuA?style=social "Comments") |
 | 11 | 2022-07-20 | Online Blackjack Cracked | [Play](https://www.youtube.com/watch?v=wrzTpW5jyZA) | ![View Count](https://img.shields.io/youtube/views/wrzTpW5jyZA?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/wrzTpW5jyZA?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/wrzTpW5jyZA?style=social "Comments") |
 | 10 | 2022-07-13 | Should You Run it Twice? | [Play](https://www.youtube.com/watch?v=rZxnjtkFiIA) | ![View Count](https://img.shields.io/youtube/views/rZxnjtkFiIA?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/rZxnjtkFiIA?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/rZxnjtkFiIA?style=social "Comments") |
 | 9 | 2022-07-05 | Celsius 232.8 | [Play](https://www.youtube.com/watch?v=6tc_E3BdgEo) | ![View Count](https://img.shields.io/youtube/views/6tc_E3BdgEo?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/6tc_E3BdgEo?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/6tc_E3BdgEo?style=social "Comments") |
