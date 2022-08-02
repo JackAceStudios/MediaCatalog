@@ -25,5 +25,6 @@
 
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
+| 3 | 2022-08-01 | You Should Never Play 6-to-5 Blackjack | [Play](https://www.youtube.com/shorts/Ae3iZLNaxh4) | ![View Count](https://img.shields.io/youtube/views/Ae3iZLNaxh4?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/Ae3iZLNaxh4?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/Ae3iZLNaxh4?style=social "Comments") |
 | 2 | 2022-07-29 | Stop Giving Reacharounds at the Roulette Table | [Play](https://www.youtube.com/shorts/wMECSFudqy8) | ![View Count](https://img.shields.io/youtube/views/wMECSFudqy8?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/wMECSFudqy8?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/wMECSFudqy8?style=social "Comments") |
 | 1 | 2022-07-29 | Bosom Buddies Roulette Scene | [Play](https://www.youtube.com/shorts/pLTgzMjcgWY) | ![View Count](https://img.shields.io/youtube/views/pLTgzMjcgWY?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/pLTgzMjcgWY?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/pLTgzMjcgWY?style=social "Comments") |
