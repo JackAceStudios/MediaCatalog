@@ -8,7 +8,6 @@
 
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
-
 | 20 | 2022-10-25 | Who wants to CHEAT to get on WHO WANTS TO BE A MILLIONAIRE? | [Play](https://www.youtube.com/watch?v=VuwQYiaAGZE) | ![View Count](https://img.shields.io/youtube/views/VuwQYiaAGZE?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/VuwQYiaAGZE?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/VuwQYiaAGZE?style=social "Comments") |
 | 19 | 2022-10-17 | Roulette Bet Analyzer NEW FEATURE! What are Outcome Graphs? | [Play](https://www.youtube.com/watch?v=8YOLcGW_5u4) | ![View Count](https://img.shields.io/youtube/views/8YOLcGW_5u4?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/8YOLcGW_5u4?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/8YOLcGW_5u4?style=social "Comments") |
 | 18 | 2022-10-03 | I CRUSH A CAR WITH A TANK with Alex Kim from CEG Dealer School! | [Play](https://www.youtube.com/watch?v=tAgrTlW4lWQ) | ![View Count](https://img.shields.io/youtube/views/tAgrTlW4lWQ?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/tAgrTlW4lWQ?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/tAgrTlW4lWQ?style=social "Comments") |
