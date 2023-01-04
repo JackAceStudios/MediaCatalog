@@ -44,6 +44,7 @@
 
 | Number | Published | Title | Link | Views | Likes | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
+| 36 | 2023-01-02 | Gone With the Shredders | [Play](https://www.youtube.com/shorts/jgZ4j4rGgtU) | ![View Count](https://img.shields.io/youtube/views/jgZ4j4rGgtU?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/jgZ4j4rGgtU?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/jgZ4j4rGgtU?style=social "Comments") |
 | 35 | 2022-12-22 | DTF | [Play](https://www.youtube.com/shorts/xa5LdWgE0cU) | ![View Count](https://img.shields.io/youtube/views/xa5LdWgE0cU?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/xa5LdWgE0cU?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/xa5LdWgE0cU?style=social "Comments") |
 | 34 | 2022-12-15 | This Bitch + Bobby Lee - Lotto Tips | [Play](https://www.youtube.com/shorts/KIT4yT2_3_s) | ![View Count](https://img.shields.io/youtube/views/KIT4yT2_3_s?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/KIT4yT2_3_s?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/KIT4yT2_3_s?style=social "Comments") |
 | 33 | 2022-11-30 | TipiT - Palindromic Tip Calculator 2 | [Play](https://www.youtube.com/shorts/is8ZT8cx8co) | ![View Count](https://img.shields.io/youtube/views/is8ZT8cx8co?style=social "View Count") | ![Likes](https://img.shields.io/youtube/likes/is8ZT8cx8co?style=social "Likes") | ![Comments](https://img.shields.io/youtube/comments/is8ZT8cx8co?style=social "Comments") |
